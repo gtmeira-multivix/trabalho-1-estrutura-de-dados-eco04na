@@ -38,6 +38,6 @@ O trabalho deve ser entregue até as **23:59 do dia 06/10 (sábado)**. A entrega
 ## Grupo
 O trabalho pode ser feito em grupos de até 3 pessoas. Preencha abaixo o nome dos integrantes do grupo:
 
-1) LUCAS GIUBERTI NASARIO DE ARAUJO - 1711966
-2) JOSE CARLOS GASPARINI - 1714586
-3) FHARLEY RICARDO - matrícula
+1) Fharley Ricardo Marques - 1312324
+2) Lucas Giuberti Nasario De Araujo - 1711966
+3) Lucas Passos Sperandio - 1512887
