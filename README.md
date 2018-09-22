@@ -38,6 +38,6 @@ O trabalho deve ser entregue até as **23:59 do dia 06/10 (sábado)**. A entrega
 ## Grupo
 O trabalho pode ser feito em grupos de até 3 pessoas. Preencha abaixo o nome dos integrantes do grupo:
 
-1) Fharley Ricardo Marques - 1312324
+1) Fharley Ricardo Marques - 1312324 
 2) Lucas Giuberti Nasario De Araujo - 1711966
 3) Lucas Passos Sperandio - 1512887
