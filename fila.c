@@ -51,7 +51,12 @@ Token fila_remover(Fila *f) {
 }
 
 int fila_vazia(Fila *f) {
-	//Implemente
+	if(f->primeiro == NULL){
+        return 1;
+    }
+    else{
+        return 0;
+    }
 }
 
 void fila_destruir(Fila *f) {
